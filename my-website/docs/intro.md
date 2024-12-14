@@ -12,4 +12,4 @@ sidebar_position: 1
 
 ## Репозиторий 
 
-**[GitHub](https://github.com/hellkirl/networks_administration)**
+**[GitHub](https://github.com/hellkirl/ITMO-ICT-Networks-Administration)**
